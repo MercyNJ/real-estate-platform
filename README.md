@@ -1,0 +1,3 @@
+A full-stack real estate platform I am currently building, initially focused on the Kenyan market. The platform will enable users to discover properties for sale or rent, connect with agents and property owners, and receive personalized recommendations through an AI-powered property assistant.
+
+I am developing the platform incrementally, starting with the core marketplace functionality and expanding it with additional features over time.
