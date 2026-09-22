@@ -229,7 +229,8 @@ Backend modules must have clear ownership and boundaries.
 
 Core modules include:
 
-* Auth & Users
+* Auth
+* Users
 * Properties
 * Locations
 * Agents & Agencies
